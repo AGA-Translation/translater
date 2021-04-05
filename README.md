@@ -11,6 +11,11 @@
   </h3>
 
   [ENGLISH Version](https://github.com/AGA-Translation/translater/tree/ENGLISH) | [CHINESE Version](https://github.com/AGA-Translation/translater/tree/CHINESE)
+  
+  Please click on the language version above for how to use it|使用方法请点击上面语言版本
+  
+  
+  
 
 
 
@@ -24,10 +29,10 @@
 
 
 
-**[CHANGELOG](https://github.com/getgridea/gridea/blob/master/CHANGELOG.md)**  
 
 
-😘  Enjoy~
+
+😘  Enjoy~  😘  Enjoy~  😘  Enjoy~
 
 ## BASE ON
 

@@ -1,7 +1,7 @@
 
 <div align="center">
-  <a href="https://gridea.dev">
-    <img src="public/app-icons/gridea.png"  width="80px" height="80px">
+  <a href="https://github.com/AGA-Translation">
+    <img src="https://user-images.githubusercontent.com/65057243/113545351-9354f000-961c-11eb-97f4-42b6be6e5111.jpg"  width="80px" height="80px">
   </a>
   <h1 align="center">
     Gridea

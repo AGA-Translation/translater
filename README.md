@@ -14,10 +14,11 @@
 
 
 
+
 </div>
 
 <div align="center">
-  <img src="gridea-app-en.png">
+  <img src="https://user-images.githubusercontent.com/65057243/113545868-8c7aad00-961d-11eb-9ae6-64fb57b2c22d.png">
 
 </div>
 

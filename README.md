@@ -9,6 +9,8 @@
   <h3 align="center">
     An automatic AGA translater 
   </h3>
+<img src="https://img.shields.io/badge/-building-green">
+
 
   [ENGLISH Version](https://github.com/AGA-Translation/translater/tree/ENGLISH) | [CHINESE Version](https://github.com/AGA-Translation/translater/tree/CHINESE)
   

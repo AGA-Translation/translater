@@ -22,7 +22,7 @@
 
 </div>
 
-English | [简体中文](https://github.com/getgridea/gridea/blob/master/README-zh_CN.md)  | [繁體中文](https://github.com/getgridea/gridea/blob/master/README-zh_TW.md)
+
 
 **[CHANGELOG](https://github.com/getgridea/gridea/blob/master/CHANGELOG.md)**  
 
@@ -60,34 +60,10 @@ Give full play to your talents！
 
 😘  Enjoy~
 
-## Development
-If you want to contribute code, please check the [Contribution Guide](https://github.com/getgridea/gridea/wiki/%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97) in advance.
+## BASE ON
 
-``` shell
-$ # Node version > v10.0.0 is requied
-$ git clone https://github.com/getgridea/gridea.git
-$ cd gridea
-$ yarn
-$ yarn electron:serve
-$ yarn electron:build
-```
+[bbepis's XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator)
+[Aceship's Alice-Gear-Aegis-EN-Text](https://github.com/Aceship/Alice-Gear-Aegis-EN-Text)
+[phantasmx's translation_patch](https://github.com/phantasmx/AGA-mods/blob/master/translation_patch.zip)
 
 
-## Contact
-[Telegram Channel](https://t.me/joinchat/AAAAAEj82_lma0Y1wmyqUQ) | [Telegram Group](https://t.me/joinchat/IDY0ahRqb8NPodv95BNpBg)  | QQ 1 Group: 970332209 | QQ 2 Group: 923131213 | Author Twitter: @EryouHao
-
-## Example Screenshots
-<div align="center">
-  <img src="./files/themes.png">
-</div>
-
-## Contributions
-We welcome all contributions.You can submit any ideas as [pull requests](https://github.com/getgridea/gridea/pulls) or as GitHub [issues](https://github.com/getgridea/gridea/issues).   
-
-## Donation
-<div>
-  <img src="./files/wechat.png" width="240px">
-</div>
-
-## License
-[MIT](https://github.com/getgridea/gridea/blob/master/LICENSE). Copyright (c) 2020 EryouHao

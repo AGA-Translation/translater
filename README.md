@@ -4,10 +4,10 @@
     <img src="https://user-images.githubusercontent.com/65057243/113545351-9354f000-961c-11eb-97f4-42b6be6e5111.jpg"  width="80px" height="80px">
   </a>
   <h1 align="center">
-    Gridea
+    AGA translater
   </h1>
   <h3 align="center">
-    A static blog writing client
+    An automatic AGA translater 
   </h3>
 
   [Download](https://github.com/getgridea/gridea/releases) | [Homepage](https://gridea.dev/)

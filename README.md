@@ -10,7 +10,7 @@
     An automatic AGA translater 
   </h3>
 
-  [Download](https://github.com/getgridea/gridea/releases) | [Homepage](https://gridea.dev/)
+  [ENGLISH Version](https://github.com/AGA-Translation/translater/tree/ENGLISH) | [CHINESE Version](https://github.com/AGA-Translation/translater/tree/CHINESE)
 
   <a href="https://github.com/getgridea/gridea/releases/latest">
     <img src="https://img.shields.io/github/release/getgridea/gridea.svg?style=flat-square" alt="">

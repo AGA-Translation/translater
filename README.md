@@ -1,3 +1,7 @@
+# 目前为测试版本，不保证翻译质量
+
+<img src="https://img.shields.io/badge/-building-green">
+
 # [下载地址](https://aga-text-zh.pages.dev/translater-Chinese-ver0.10.zip)
 ![USE](https://user-images.githubusercontent.com/65057243/113544219-76b7b880-961a-11eb-8f15-58b779a4e94b.png)
 # 文件放在游戏目录下，然后运行游戏即可 如出现字体缺少，请按ALT+F
@@ -6,10 +10,10 @@
 ![image](https://user-images.githubusercontent.com/65057243/113663655-002fbf00-96dd-11eb-83df-90f2fa82bc7e.png)
 
 
-<img src="https://img.shields.io/badge/-building-green">
+
 
 #目前使用翻译+字典
-## 修改翻译来源（目前使用百度翻译API）（修改完成才可以正常使用）
+## 修改翻译来源（目前使用百度翻译API）（修改完成才可以正常使用） 
 ### 请修改BepInEx\config\AutoTranslatorConfig.ini
 ``` shell
 [Baidu]
@@ -20,7 +24,8 @@ DelaySeconds=1
 
 
 
-## 百度翻译api免费使用，请自行申请https://fanyi-api.baidu.com/       选择 通用翻译api
+## 百度翻译api免费使用，请自行申请https://fanyi-api.baidu.com/       选择 通用翻译api 
+#### 注api 1秒钟只能调用1次
 
 BUG反馈请到[问题](https://github.com/AGA-Translation/translater/issues)
 

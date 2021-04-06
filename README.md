@@ -1,4 +1,5 @@
 <img src="https://img.shields.io/badge/-building-green">
+
 # 请修改BepInEx\config\AutoTranslatorConfig.ini
 # [Baidu]
 # BaiduAppId=

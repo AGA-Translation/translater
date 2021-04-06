@@ -49,3 +49,4 @@ BUG反馈请到[问题](https://github.com/AGA-Translation/translater/issues)
 ## BASE ON
 
 [bbepis's XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator)|[Aceship's Alice-Gear-Aegis-EN-Text](https://github.com/Aceship/Alice-Gear-Aegis-EN-Text)|[phantasmx's translation_patch](https://github.com/phantasmx/AGA-mods/blob/master/translation_patch.zip)
+###### 免责声明： 该翻译机仅供剧情试看，请勿非法用途，本组织一盖不承担任何责任

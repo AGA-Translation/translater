@@ -1,0 +1,33 @@
+﻿[Message:   BepInEx] BepInEx 5.4.9.0 - alice_main
+[Info   :   BepInEx] Running under Unity v2018.4.31.2174630
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.17020
+[Info   :   BepInEx] Supports SRE: False
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 2 plugins to load
+[Info   :   BepInEx] Loading [XUnity Auto Translator 4.13.0]
+[Warning:XUnity.AutoTranslator] Image not loaded (unmodified): C:\Alice gear aegis\alicegearaegisexe\BepInEx\Translation\zh\Texture\multStamp_002 [116CAACCA3-96EA185039].png.
+[Warning:XUnity.AutoTranslator] Image not loaded (unmodified): C:\Alice gear aegis\alicegearaegisexe\BepInEx\Translation\zh\Texture\multStamp_020 [F337CA820A-06393AAC18].png.
+[Info   :XUnity.AutoTranslator] Loaded XUnity.AutoTranslator into Unity [2018.4.31f1] game.
+[Info   :   BepInEx] Loading [XUnity Resource Redirector 1.1.3]
+[Message:   BepInEx] Chainloader startup complete
+[Info   :XUnity.AutoTranslator] Skipping plugin scan because no plugin-specific translations has been registered.
+[Error  :XUnity.AutoTranslator] Received empty translation from translator.
+[Error  :XUnity.AutoTranslator] Failed: '表示するギアがありません'
+[Error  :XUnity.AutoTranslator] Received empty translation from translator.
+[Error  :XUnity.AutoTranslator] Failed: 'ベゼ・ド・ランジュ'
+[Error  :XUnity.AutoTranslator] Received empty translation from translator.
+[Error  :XUnity.AutoTranslator] Failed: 'キューピッド・プルンブム'
+[Error  :XUnity.AutoTranslator] Received empty translation from translator.
+[Error  :XUnity.AutoTranslator] Failed: 'カスタムキット'
+[Error  :XUnity.AutoTranslator] Received empty translation from translator.
+[Error  :XUnity.AutoTranslator] Failed: 'キューピッド・プルンブム'
+[Error  :XUnity.AutoTranslator] Received empty translation from translator.
+[Error  :XUnity.AutoTranslator] Failed: 'んあーっ
+おいしいおにくが食べたいーっ
+'

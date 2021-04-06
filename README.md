@@ -12,7 +12,7 @@
 
 
 
-#目前使用翻译+字典
+# 目前使用翻译+字典
 ## 修改翻译来源（目前使用百度翻译API）（修改完成才可以正常使用） 
 ### 请修改BepInEx\config\AutoTranslatorConfig.ini
 ``` shell

@@ -45,3 +45,7 @@ BUG反馈请到[问题](https://github.com/AGA-Translation/translater/issues)
 
 # 程序或者字库更新请关注群  点击链接加入群聊【AGA重要更新内容通知】：https://jq.qq.com/?_wv=1027&k=f0vEJyDZ
 
+
+## BASE ON
+
+[bbepis's XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator)|[Aceship's Alice-Gear-Aegis-EN-Text](https://github.com/Aceship/Alice-Gear-Aegis-EN-Text)|[phantasmx's translation_patch](https://github.com/phantasmx/AGA-mods/blob/master/translation_patch.zip)

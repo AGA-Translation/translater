@@ -43,7 +43,7 @@ BUG反馈请到[问题](https://github.com/AGA-Translation/translater/issues)
 ## 由于游戏字体不支持简体中文，翻译机将才用系统默认字体
 ## 因为技术问题暂时无法使用类似游戏内的字体来加载翻译
 
-# 程序或者字库更新请关注群  点击链接加入群聊【AGA重要更新内容通知】：https://jq.qq.com/?_wv=1027&k=f0vEJyDZ
+
 
 
 ## BASE ON
